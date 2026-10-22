@@ -1,0 +1,1 @@
+import{$ as e,a as t,et as n,ht as r}from"./chunks/framework.B2_Ga-t4.js";var i=JSON.parse(`{"title":"全局状态管理","description":"","frontmatter":{},"headers":[],"relativePath":"guide/store.md","filePath":"guide/store.md"}`),a={name:`guide/store.md`};function o(t,i,a,o,s,c){return r(),e(`div`,null,[...i[0]||=[n("",8)]])}var s=t(a,[[`render`,o]]);export{i as __pageData,s as default};

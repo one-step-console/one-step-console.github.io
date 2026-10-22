@@ -1,0 +1,1 @@
+import{$ as e,a as t,et as n,ht as r}from"./chunks/framework.B2_Ga-t4.js";var i=JSON.parse(`{"title":"与服务端交互","description":"","frontmatter":{},"headers":[],"relativePath":"guide/axios.md","filePath":"guide/axios.md"}`),a={name:`guide/axios.md`};function o(t,i,a,o,s,c){return r(),e(`div`,null,[...i[0]||=[n("",57)]])}var s=t(a,[[`render`,o]]);export{i as __pageData,s as default};

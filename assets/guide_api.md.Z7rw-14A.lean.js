@@ -1,0 +1,1 @@
+import{$ as e,a as t,et as n,ht as r}from"./chunks/framework.B2_Ga-t4.js";var i=JSON.parse(`{"title":"常用 API","description":"","frontmatter":{},"headers":[],"relativePath":"guide/api.md","filePath":"guide/api.md"}`),a={name:`guide/api.md`};function o(t,i,a,o,s,c){return r(),e(`div`,null,[...i[0]||=[n("",46)]])}var s=t(a,[[`render`,o]]);export{i as __pageData,s as default};

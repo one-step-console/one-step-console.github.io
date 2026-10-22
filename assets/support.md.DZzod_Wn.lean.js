@@ -1,0 +1,1 @@
+import{$ as e,a as t,et as n,ht as r}from"./chunks/framework.B2_Ga-t4.js";var i=JSON.parse(`{"title":"技术支持","description":"","frontmatter":{},"headers":[],"relativePath":"support.md","filePath":"support.md"}`),a={name:`support.md`};function o(t,i,a,o,s,c){return r(),e(`div`,null,[...i[0]||=[n("",4)]])}var s=t(a,[[`render`,o]]);export{i as __pageData,s as default};
